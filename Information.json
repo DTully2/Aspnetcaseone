@@ -1,6 +1,16 @@
 [
   {
-    "Product": "henery",
-      "brand":"lowriseboots"
+    "Product": "Henery",
+    "brand": "LowRiseBoots",
+    "CATEGORY": "Boots",
+    "Color": "Blue",
+    "Size":  "9"
+  },
+  {
+    "Product": "Charlies",
+    "brand": "ChipChopShoes",
+    "CATEGORY": "Shoes",
+    "Color": "Green",
+    "Size": "6"
   }
 ]
