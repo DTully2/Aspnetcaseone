@@ -4,13 +4,15 @@
     "brand": "LowRiseBoots",
     "CATEGORY": "Boots",
     "Color": "Blue",
-    "Size":  "9"
+    "Size": "9",
+    "Item":  "Boots with leather stiching"
   },
   {
     "Product": "Charlies",
     "brand": "ChipChopShoes",
     "CATEGORY": "Shoes",
     "Color": "Green",
-    "Size": "6"
+    "Size": "6",
+    "Item": "Shoes with rubber soles"
   }
 ]
