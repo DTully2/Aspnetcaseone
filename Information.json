@@ -1,18 +1,167 @@
 [
   {
-    "Product": "Henery",
-    "brand": "LowRiseBoots",
-    "CATEGORY": "Boots",
-    "Color": "Blue",
-    "Size": "9",
-    "Item":  "Boots with leather stiching"
+    "ID": "DONKNOW1",
+    "BRAND": "CapCom",
+    "PRODUCT NAME": "Belt",
+    "GRAPHIC NAME": "Belt.png",
+    "MSRP": "25.99",
+    "QUANTITY ON HAND": "50",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "A belt With CapCom On it",
+    "COST PRICE": "0.0"
   },
   {
-    "Product": "Charlies",
-    "brand": "ChipChopShoes",
-    "CATEGORY": "Shoes",
-    "Color": "Green",
-    "Size": "6",
-    "Item": "Shoes with rubber soles"
+    "ID": "DONKNOW2",
+    "BRAND": "CapCom",
+    "PRODUCT NAME": "Shirt",
+    "GRAPHIC NAME": "Shirt.png",
+    "MSRP": "27.99",
+    "QUANTITY ON HAND": "5",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "A Shirt With CapCom Onit",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "DONKNOW3",
+    "BRAND": "CapCom",
+    "PRODUCT NAME": "Shoes",
+    "GRAPHIC NAME": "Shoes.png",
+    "MSRP": "100.99",
+    "QUANTITY ON HAND": "4",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Shoes with Capcom On it.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "DONKNOW4",
+    "BRAND": "CapCom",
+    "PRODUCT NAME": "Pants",
+    "GRAPHIC NAME": "Pants.png",
+    "MSRP": "199.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Pants with Capcom On it.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "DONKNOW5",
+    "BRAND": "CapCom",
+    "PRODUCT NAME": "Hat",
+    "GRAPHIC NAME": "Hat.png",
+    "MSRP": "199.99",
+    "QUANTITY ON HAND": "25",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "Hat with capcom on it.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "IKNOW1",
+    "BRAND": "Marvel",
+    "PRODUCT NAME": "MarvelAdder",
+    "GRAPHIC NAME": "DeathAdd.png",
+    "MSRP": "99.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Poster of addar.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "IKNOW2",
+    "BRAND": "Marvel",
+    "PRODUCT NAME": "Viper",
+    "GRAPHIC NAME": "Viper.png",
+    "MSRP": "19.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "marvel viper.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "IKNOW3",
+    "BRAND": "Marvel",
+    "PRODUCT NAME": "Basil ",
+    "GRAPHIC NAME": "Basi.png",
+    "MSRP": "109.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "Basil for marvel cooking",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "IKNOW4",
+    "BRAND": "Marvel",
+    "PRODUCT NAME": "OROCHI",
+    "GRAPHIC NAME": "Orochi.png",
+    "MSRP": "89.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": "poster of Orochi.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "IKNOW5",
+    "BRAND": "Marvel",
+    "PRODUCT NAME": "Atheris",
+    "GRAPHIC NAME": "Atheris.png",
+    "MSRP": "69.99",
+    "QUANTITY ON HAND": "30",
+    "QUANTITY ON BACK ORDER": "0",
+    "DESCRIPTION": " Atheris The discription.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "DCTHIS",
+    "BRAND": "DC",
+    "PRODUCT NAME": "Rival 5",
+    "GRAPHIC NAME": "DCTHIS.png",
+    "MSRP": "79.99",
+    "QUANTITY ON HAND": "10",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Rival 5 is a multi-genre gaming mouse with 9 programmable buttons, lightweight and extra durable.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "SPrimePlus",
+    "BRAND": "DC",
+    "PRODUCT NAME": "Prime +",
+    "GRAPHIC NAME": "SPrimePlus.png",
+    "MSRP": "99.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Steelseries Prime+ is a revolutionary Prestige optical magnetic switch mouse. OLES with full customization.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "SAerox3",
+    "BRAND": "DC",
+    "PRODUCT NAME": "Aerox",
+    "GRAPHIC NAME": "Aerox.png",
+    "MSRP": "79.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "DC for full protection.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "",
+    "BRAND": "DC",
+    "PRODUCT NAME": "Rival ",
+    "GRAPHIC NAME": "Rival.png",
+    "MSRP": "39.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "DC durable build.",
+    "COST PRICE": "0.0"
+  },
+  {
+    "ID": "SRival710",
+    "BRAND": "DC",
+    "PRODUCT NAME": "Rival",
+    "GRAPHIC NAME": "Rival.png",
+    "MSRP": "124.99",
+    "QUANTITY ON HAND": "20",
+    "QUANTITY ON BACK ORDER": "10",
+    "DESCRIPTION": "The Rival switches.",
+    "COST PRICE": "0.0"
   }
 ]
