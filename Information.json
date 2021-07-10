@@ -90,9 +90,9 @@
   {
     "ID": "IKNOW4",
     "BRAND": "Marvel",
-    "PRODUCT NAME": "OROCHI",
-    "GRAPHIC NAME": "Orochi.png",
-    "MSRP": "89.99",
+    "PRODUCT NAME": "SpiderMan",
+    "GRAPHIC NAME": "SpiderMan.jpg",
+    "MSRP": "9.99",
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
     "DESCRIPTION": "poster of Orochi.",
@@ -101,8 +101,8 @@
   {
     "ID": "IKNOW5",
     "BRAND": "Marvel",
-    "PRODUCT NAME": "Atheris",
-    "GRAPHIC NAME": "Atheris.png",
+    "PRODUCT NAME": "IornMan",
+    "GRAPHIC NAME": "IornMan.png",
     "MSRP": "69.99",
     "QUANTITY ON HAND": "30",
     "QUANTITY ON BACK ORDER": "0",
